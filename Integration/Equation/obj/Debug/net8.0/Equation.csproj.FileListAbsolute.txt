@@ -1,0 +1,4 @@
+C:\Users\james\Downloads\School\Calculation methods\Integration\Equation\obj\Debug\net8.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Downloads\School\Calculation methods\Integration\Equation\obj\Debug\net8.0\Equation.AssemblyInfoInputs.cache
+C:\Users\james\Downloads\School\Calculation methods\Integration\Equation\obj\Debug\net8.0\Equation.AssemblyInfo.cs
+C:\Users\james\Downloads\School\Calculation methods\Integration\Equation\obj\Debug\net8.0\Equation.csproj.CoreCompileInputs.cache
